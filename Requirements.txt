@@ -1,0 +1,15 @@
+Node.js (v16 or higher)
+npm (Node Package Manager)
+
+Hyperledger Fabric (v2.4 or higher)
+Hyperledger Fabric Samples
+
+fabric-contract-api
+fabric-shim
+
+json-stringify-deterministic
+sort-keys-recursive
+
+Git
+
+Linux Environment (Kali Linux / Ubuntu)
